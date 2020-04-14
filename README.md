@@ -55,6 +55,8 @@ In the context of the global COVID-19 pandemic, we follow the suggestions from K
     
     3.2. Gompertz model
     
+    3.3  Results
+    
  4. **NLTK Sentiment Analysis**
 
     4.1. Evolution of news
