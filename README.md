@@ -13,36 +13,36 @@ Data: [COVID19 Global Forecasting](https://www.kaggle.com/c/covid19-global-forec
 
 **TABLE OF CONTENTS**
 
-1. [Exploratory data analysis (EDA)](#section1)
+1. [Exploratory data analysis (EDA)]
 
-    1.1. [Worldwide Trend](#section11)
+    1.1. [Worldwide Trend]
     
-    1.2. [Country-Wise growth](#section12)
+    1.2. [Country-Wise growth]
     
-    1.3. [Zoom up to](#section13)
+    1.3. [Zoom up to]
     
-      1.3.1. [Asia](#section131)
+      1.3.1. [Asia]
       
-      1.3.2. [Europe](#section132)
+      1.3.2. [Europe]
       
-      1.3.3. [US](#section133)
+      1.3.3. [US]
       
- 2. [Modelling](#section2)
+ 2. [Modelling]
 
-    2.1. [SIR model](#section21)
+    2.1. [SIR model]
     
-    2.2. [SIR-Model with Lockdown](#section22)
+    2.2. [SIR-Model with Lockdown]
     
-      2.2.1. [Fitting SIR with Lockdown to data](#section131)
+      2.2.1. [Fitting SIR with Lockdown to data]
       
-    2.3. [SIR with time-dependent R_0 and CFR](#section21)
+    2.3. [SIR with time-dependent R_0 and CFR]
     
-      2.3.1. [Fitting extended SIR to data](#section131)
+      2.3.1. [Fitting extended SIR to data]
       
   3. [Prediction](#section3)
 
-     3.1. [Logistic model](#section31)
+     3.1. [Logistic model]
     
-     3.2. [Gompertz model](#section32)
+     3.2. [Gompertz model]
     
       
