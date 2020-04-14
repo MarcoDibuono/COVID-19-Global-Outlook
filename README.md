@@ -41,8 +41,8 @@ Data: [COVID19 Global Forecasting](https://www.kaggle.com/c/covid19-global-forec
       
   3. [Prediction](#section3)
 
-   3.1. [Logistic model](#section31)
+     3.1. [Logistic model](#section31)
     
-   3.2. [Gompertz model](#section32)
+     3.2. [Gompertz model](#section32)
     
       
