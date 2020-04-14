@@ -8,7 +8,17 @@ Today, April 13,2020, the pandemic infected 1,854,464 people in 185 countries, c
 
 In the context of the global COVID-19 pandemic, we follow the suggestions from Kaggle's competitions in order to provide useful insights about the virus' spread. Starting from a global exploratory analysis, then we focus on virus' modelling and prediction for the countries with the largest number of confirmed cases. For modelling, we implement SIR Model with some extensions and, for prediction, logistic and Gompertz model. At the end, we choose the best model based on R2 score, check the predictions' numbers about confirmed and fatalities for the next time interval and display some results from NLTK Sentiment analysis. 
 
-Data: [COVID19 Global Forecasting](https://www.kaggle.com/c/covid19-global-forecasting-week-4) 
+Multiple Datasources:
+
+[COVID19 Global Forecasting](https://www.kaggle.com/c/covid19-global-forecasting-week-4) 
+
+[US_State Code](https://www.kaggle.com/corochann/usa-state-code/activity)
+
+[Population by Country-2020](https://www.kaggle.com/tanuprabhu/population-by-country-2020)
+
+[CBC News Coronavirus/COVID-19 Articles (NLP)](https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26) 
+
+
 
 
 **TABLE OF CONTENTS**
@@ -53,4 +63,6 @@ Data: [COVID19 Global Forecasting](https://www.kaggle.com/c/covid19-global-forec
       
       4.1.2. February
       
-      4.1.3. March    
+      4.1.3. March
+      
+    4.2 Results
